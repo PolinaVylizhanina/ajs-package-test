@@ -1,0 +1,23 @@
+{
+  "name": "ajs-package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolinaVylizhanina/ajs-package-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolinaVylizhanina/ajs-package-test/issues"
+  },
+  "homepage": "https://github.com/PolinaVylizhanina/ajs-package-test#readme",
+  "dependencies": {
+    "@polinavylizhanina/ajs-platform": "^1.0.0"
+  }
+}
